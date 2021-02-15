@@ -1,2 +1,4 @@
 # person_greeter
-greet person
+small program that greet you.
+
+
